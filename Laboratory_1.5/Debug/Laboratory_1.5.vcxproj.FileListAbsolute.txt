@@ -1,0 +1,2 @@
+D:\ООП\Laboratory_1.5\Debug\Laboratory_1.5.exe
+D:\ООП\Laboratory_1.5\Debug\Laboratory_1.5.pdb
